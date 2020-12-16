@@ -1,9 +1,9 @@
 ---
-title: "MC-Nexus Lauschen: Winterupdate"
+title: "MC-Nexus Launcher: Winterupdate"
 ---
 
 ## Was enthält dieses?
-Nichts. Zumindest nichts wichtiges. Aber dafür eine kleine, winterliche Style- & Scriptänderung: im Dezember und im Januar fallen nun im Launcher Schnee. Als kleiner Ausgleich des jetzigen Schneemangels :smile:.
+Nichts. Zumindest nichts wichtiges. Aber dafür eine kleine, winterliche Style- & Scriptänderung: im Dezember und im Januar fallen nun im Launcher Schnee. Als kleiner Ausgleich des jetzigen Schneemangels :smile: .
 
 ## Und warum?
 1. Ein einheitliches Design mit der [Homepage](https://MC-Nexus.de)
