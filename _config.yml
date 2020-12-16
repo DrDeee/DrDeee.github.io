@@ -20,7 +20,7 @@ title                    : "DrDeee Projects"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "DrDeee"
-description              : "An amazing website."
+description              : "Amazing Projects of a little Developer"
 url                      : https://DrDeee.github.in # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : DrDeee/DrDeee.github.in # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "DrDeee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an ~~amazing~~ Hobby-Developer, liking Java & JavaScript"
   location         : "Germany"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:chickendevlab@gmx.de"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
